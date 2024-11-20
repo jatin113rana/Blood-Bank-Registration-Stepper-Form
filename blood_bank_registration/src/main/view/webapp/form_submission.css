@@ -1,0 +1,38 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:pink;
+    
+}
+
+section{
+    height: 100px;
+    width: 350px;
+    border: solid 1px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   position: relative;
+   top: 50%;
+   
+}
+ton{
+    height: 7%;
+    width: 30%;
+    background-color:palevioletred;
+    border-radius: 10px;
+}
+input{
+    height: 30px;
+    border-radius: 10px;
+}

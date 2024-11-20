@@ -1,0 +1,43 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:pink;
+    
+}
+
+section{
+    height:60% ;
+    width: 350px;
+    border: solid 1px;
+    border-radius: 15px;
+   
+}
+form{
+    height:450px ;
+    width: 300px;
+    position: relative;
+    left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 10px;
+
+}
+button{
+    height: 7%;
+    width: 30%;
+    background-color:palevioletred;
+    border-radius: 10px;
+}
+input{
+    height: 30px;
+    border-radius: 10px;
+}
