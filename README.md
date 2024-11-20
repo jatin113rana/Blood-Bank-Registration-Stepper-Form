@@ -32,6 +32,7 @@ Here’s a README.md file for your BloodBankRegistrationStapperForm project:
 
 ### Hosting:
 - *Vercel*: For deploying and hosting the application.
+- Link: https://blood-bank-registration-stepper-form-m7wt.vercel.app/
 
 - <img width="1440" alt="Screenshot 2024-11-20 at 2 01 54 PM" src="https://github.com/user-attachments/assets/07295a00-08fc-4261-9d77-1ab14072c3c8">
 <img width="1440" alt="Screenshot 2024-11-20 at 2 01 58 PM" src="https://github.com/user-attachments/assets/366dd0db-b4b3-4888-ad5e-3b94245d6ac7">
